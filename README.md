@@ -1,1 +1,1 @@
-# 20240205_CWA_SageMaker_Canvas_Workshop
+# 20240205_CWA_SageMakerCanvas_Workshop
